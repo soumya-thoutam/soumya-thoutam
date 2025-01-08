@@ -5,7 +5,7 @@
 Hello, I'm Soumya – Data Analyst with 4+ Years of Experience in:
 
 * Analyzing complex datasets, generating actionable insights, and developing impactful visualizations.
-* Hands-on experience with SQL, Python, data visualization tools, and AI/ML combined with expertise in cloud platforms like Google Cloud and AWS.
+* Hands-on experience with SQL, Python, data visualization tools, and AI/ML, combined with expertise in cloud platforms like Google Cloud and AWS.
 * Focused on designing efficient data pipelines and continuously improving skills to solve real-world data challenges.
   
 **📚 Projects**
