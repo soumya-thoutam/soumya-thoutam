@@ -8,12 +8,10 @@ Hello, I'm Soumya – Data Analyst with 4+ Years of Experience in:
 * Hands-on experience with SQL, Python, and data visualization tools, combined with expertise in cloud platforms like Google Cloud and AWS.
 * Focused on designing efficient data pipelines and continuously improving skills to solve real-world data challenges.
   
-\
 **📚 Projects**
 
 Explore the projects I’ve worked on, where I apply my technical skills to solve interesting problems and uncover deeper insights from data.
 
-\
 **🛠️ Tools & Technologies**
 
 * Languages: SQL, Python
@@ -21,7 +19,6 @@ Explore the projects I’ve worked on, where I apply my technical skills to solv
 * Cloud Platforms: Google Cloud, AWS
 * Visualization: Tableau, Power BI, Excel
 
-\
 **👋🏻 Let's Connect**
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/soumyathoutam/) or [Email](mailto:soumyathoutam8@gmail.com) to connect, hire and discuss opportunities. I’m always open to new ideas and challenges!
