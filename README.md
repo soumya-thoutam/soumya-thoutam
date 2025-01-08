@@ -1,6 +1,5 @@
 About Me
-![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/1cfb387a-b9e2-4a85-b5a6-f44ac88add9e)
-
+![Black Minimal Motivation Quote LinkedIn Banner (4)](https://github.com/user-attachments/assets/78f58185-3e31-47fe-9543-8cdeb6ebd9b4)
 
 <!--
 **soumya-thoutam/soumya-thoutam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
