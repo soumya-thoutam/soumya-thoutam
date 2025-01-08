@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/f71680ef-04bc-4b35-90dc-e7424ff44bb1)
 
 <!--
 **soumya-thoutam/soumya-thoutam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
