@@ -10,7 +10,7 @@ Hello, I'm Soumya – Data Analyst with 4+ Years of Experience in:
   
 ## 📚 Projects
 
-Explore the projects I’ve worked on, where I apply my technical skills to solve interesting problems and uncover deeper insights from data.
+Projects I’ve worked on, where I apply my technical skills to solve interesting problems and uncover deeper insights from data.
 
 ## 🛠️ Tools & Technologies
 
@@ -18,7 +18,7 @@ Explore the projects I’ve worked on, where I apply my technical skills to solv
 * Databases: MySQL, PostgreSQL
 * Cloud Platforms: Google Cloud, AWS
 * Visualization: Tableau, Power BI, Excel
-* Technologies: Machine Learning, Natural Language Processing, Statistical Analysis
+<!--* Technologies: Machine Learning, Natural Language Processing, Statistical Analysis -->
 
 ## 👋🏻 Let's Connect
 
